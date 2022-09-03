@@ -21,8 +21,8 @@ h1{
 }
 
 input{
-    width: 50%;
-    padding: 10px 20px;
+    width: 100%;
+    padding: 15px 30px;
     border: none;
     outline: none;
     margin: 20px 0;
@@ -31,9 +31,9 @@ input{
 }
 
 button{
-    line-height: 25px;
+    line-height: 50px;
     padding: 0 20px;
-    background: #9b59b6;
+    background: #9ab659;
     color: white;
     border: 2px solid #ecf0f1;
     outline: none;
